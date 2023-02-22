@@ -1,7 +1,7 @@
 {
   "placeholder": "",
   "defaultProvider": "https://google.com/search?q=",
-  "autoFocus": false,
+  "autoFocus": true,
   "providers": [
     {
       "name": "Allmusic",
